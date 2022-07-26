@@ -24,6 +24,7 @@
 
 <body>
 	<jsp:forward page="pages/login.jsp"></jsp:forward>
+	<p>hello</p>
 	<br>
 </body>
 </html>
